@@ -1,0 +1,24 @@
+{
+  "name": "bqendi-portifolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitormateussignorirodrigues/bqendi-portifolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitormateussignorirodrigues/bqendi-portifolio/issues"
+  },
+  "homepage": "https://github.com/vitormateussignorirodrigues/bqendi-portifolio#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
